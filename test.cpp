@@ -1,1 +1,6 @@
-"#include <iostream>\n int main()\n" 
+#include <iostream>
+
+int main()
+{
+    std::cout << "Hello World!" << endl;
+}

@@ -1,1 +1,1 @@
-"I am Ai Ho"
+"I am Ai Ho. I am starting to learn Git."
